@@ -1,10 +1,8 @@
-<h2 align="left">Hi 👋! My name is Lucas and I'm a computer science student at UFPEL.</h2>
+<h2 align="center">Hi 👋 My name is Lucas!</h2>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasAniceto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="left">💻 About Me<br>- 🎓 Computer Science Student at UFPel.<br>-🌱 Exploring and discovering the technologies that align with my passions.<br>- 💡 Fascinated by Web3 and its potential, but I love learning about all kinds of tech!<br>- 🎨 Interested in design and building solutions that make life better for people.<br>- 🛠️ Previously explored 3D modeling and printing, combining creativity and problem-solving.<br>- 🎥 Have some experience in video editing, having worked on related projects in the past.</p>
 
 ###
 
@@ -20,10 +18,8 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasAniceto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
