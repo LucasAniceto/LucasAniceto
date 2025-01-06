@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 About Me<br>- 🎓 Computer Science Student at UFPel.<br>-🌱 Exploring and discovering the technologies that align with my passions.<br>- 💡 Fascinated by Web3 and its potential, but I love learning about all kinds of tech!<br>- 🎨 Interested in design and building solutions that make life better for people.<br>- 🛠️ Previously explored 3D modeling and printing, combining creativity and problem-solving.<br>- 🎥 Have some experience in video editing, having worked on related projects in the past.</p>
+<p align="left">💻 About Me:<br>- 🎓 Computer Science Student at UFPel.<br>-🌱 Exploring and discovering the technologies that align with my passions.<br>- 💡 Fascinated by Web3 and its potential, but I love learning about all kinds of tech!<br>- 🎨 Interested in design and building solutions that make life better for people.<br>- 🛠️ Previously explored 3D modeling and printing, combining creativity and problem-solving.<br>- 🎥 Have some experience in video editing, having worked on related projects in the past.<br><br>📬 Contact me:<br>- 📧 Email: lucas.paulsen@hotmail.com<br>- 💬 Discord: luybi</p>
 
 ###
 
@@ -14,12 +14,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="30" alt="premierepro logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasAniceto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
