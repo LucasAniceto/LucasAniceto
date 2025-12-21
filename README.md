@@ -29,3 +29,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,blender,github.aws,linux,postman,)](https://skillicons.dev)
